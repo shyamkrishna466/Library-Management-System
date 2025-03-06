@@ -6,6 +6,8 @@ The Library Management System is a Python-based project that uses MySQL as its d
 ✅ Manage books (Add, Display, Modify, Delete)
 ✅ MySQL database for storing information
 ✅ CLI-based menu for easy interaction
-
+##🛠️ Technologies Used  
+- **Python** (Jupyter Notebook)  
+- **MySQL** (Database)  
 
 
